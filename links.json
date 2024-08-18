@@ -11,6 +11,7 @@
     "externalLinks": {
         "FreeBox": "https://mihouse.freeboxos.fr:12345",
         "HomeAssistant": "https://hagroot.duckdns.org:8123",
+        "Kumo": "https://groot06.duckdns.org:3001",
         "Grootstack": "https://hagroot.duckdns.org:2665",
         "Paperless": "https://groot06.duckdns.org:15443",
         "Bitwarden": "https://hagroot.duckdns.org:7277",

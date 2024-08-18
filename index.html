@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ma liste Cloud</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1>Ma liste Cloud</h1>
+
+        <!-- Choix entre lien local ou externe -->
+        <label for="link-type">Type de lien:</label>
+        <select id="link-type">
+            <option value="">- Choix du type de lien -</option>
+            <option value="local">Lien Interne</option>
+            <option value="external">Lien Externe</option>
+        </select>
+
+        <!-- Menu déroulant pour sélectionner l'application -->
+        <label for="app-select">Choisissez une application:</label>
+        <select id="app-select" disabled>
+            <option value="">- Sélectionnez une appli -</option>
+        </select>
+
+        <!-- Champ de mot de passe -->
+        <label for="password">Mot de passe:</label>
+        <input type="password" size="5" id="password" placeholder="Entrez le mot de passe">
+
+        <!-- Bouton de validation -->
+        <button id="submit-btn">GO</button>
+        <input type="text" onblur="myFunction()">
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

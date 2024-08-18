@@ -1,0 +1,19 @@
+{
+    "localLinks": {
+        "freebox": "192.168.0.254",
+        "HomeAssistant": "192.168.0.2:8123",
+        "IpsyCam": "192.168.0.5:8090",
+        "GrootStack": "192.168.0.2:2665",
+        "Paperless": "192.168.0.2:15443",
+        "Bitwarden": "192.168.0.2:7277",
+        "Chrome": "192.168.0.3:8000"
+    },
+    "externalLinks": {
+        "FreeBox": "https://mihouse.freeboxos.fr:12345",
+        "HomeAssistant": "https://hagroot.duckdns.org:8123",
+        "Grootstack": "https://hagroot.duckdns.org:2665",
+        "Paperless": "https://groot06.duckdns.org:15443",
+        "Bitwarden": "https://hagroot.duckdns.org:7277",
+        "Chrome": "https://groot06.duckdns.org:8000"
+    }
+}

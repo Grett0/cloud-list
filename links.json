@@ -11,10 +11,10 @@
     "externalLinks": {
         "FreeBox": "https://fb.2811.fr",
         "HomeAssistant": "https://ha.2811.fr:8123",
-        "Kumo": "https://kumo.2811.fr",
+        "Kuma": "https://kuma.2811.fr",
         "Grootstack": "https://grootstack.2811.fr",
         "Paperless": "https://groot06.duckdns.org:15443",
         "Bitwarden": "https://mdp.2811.fr",
-        "Chrome": "https://groot06.duckdns.org:8000"
+        "Chrome": "http://mihouse.freeboxos.fr:4000"
     }
 }

@@ -9,12 +9,12 @@
         "Chrome": "192.168.0.3:8000"
     },
     "externalLinks": {
-        "FreeBox": "https://mihouse.freeboxos.fr:12345",
-        "HomeAssistant": "https://hagroot.duckdns.org:8123",
-        "Kumo": "https://groot06.duckdns.org:3001",
-        "Grootstack": "https://hagroot.duckdns.org:2665",
+        "FreeBox": "https://fb.2811.fr",
+        "HomeAssistant": "https://ha.2811.fr:8123",
+        "Kumo": "https://kumo.2811.fr",
+        "Grootstack": "https://grootstack.2811.fr",
         "Paperless": "https://groot06.duckdns.org:15443",
-        "Bitwarden": "https://hagroot.duckdns.org:7277",
+        "Bitwarden": "https://mdp.2811.fr",
         "Chrome": "https://groot06.duckdns.org:8000"
     }
 }

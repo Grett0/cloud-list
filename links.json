@@ -1,12 +1,12 @@
 {
     "localLinks": {
-        "freebox": "192.168.0.254",
+        "freebox": "http://192.168.0.254",
         "HomeAssistant": "https://192.168.0.2:8123",
-        "IpsyCam": "192.168.0.5:8090",
+        "IpsyCam": "http://192.168.0.5:8090",
         "GrootStack": "https://192.168.0.2:2665",
-        "pb voir henri Paperless": "192.168.0.2:15443",
+        "pb voir henri Paperless": "http://192.168.0.2:15443",
         "Bitwarden": "https://192.168.0.2:7277",
-        "Chrome": "192.168.0.3:8000"
+        "Chrome": "http://192.168.0.3:8000"
     },
     "externalLinks": {
         "FreeBox": "https://fb.2811.fr",

@@ -61,7 +61,7 @@ fetch('links.json')
                 return;
             }
 
-            const linkPrefix = linkTypeSelect.value === 'local' ? 'http://' : '';
+            const linkPrefix = linkTypeSelect.value === 'local' ? '' : '';
             window.open(`${linkPrefix}${selectedLink}`, '_blank');
         });
     });
